@@ -30,11 +30,11 @@ Follow these instructions to set up the project on your local machine for develo
 ### Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YourUsername/YourRepositoryName.git
+   git clone https://github.com/RehanShaikh007/Manufac_Table
    ```
 2. **Navigate to the Project Directory**
    ```bash
-   cd YourRepositoryName
+   cd Manufac_Table
    ```
 3. **Install Dependencies Run the following command to install all necessary dependencies**
    ```bash
@@ -64,6 +64,10 @@ npm run preview
 This command will serve the production build on a local server, allowing you to test the optimized version of your application.
 
 ## Screenshots
+![table1](https://github.com/user-attachments/assets/45879a6c-a828-436d-8650-695ff822ce97)
+
+![table2](https://github.com/user-attachments/assets/91a9a5cb-b496-4b9c-96a5-192bba8833b1)
+
 
 ## Contributing
 Contributions are welcome! If you would like to make improvements or add new features, please follow these steps:
